@@ -8,10 +8,10 @@
 
 ## 公開しているデータ
 
-[Silhouette](https://silhouettejapan.jp/) のカッティングマシン（Cameo4）で用いるカットデータ。Silhouette Studio V3 (.studio3) 形式。
+[Silhouette](https://silhouettejapan.jp/) のカッティングマシン（Cameo 4）で用いるカットデータ。Silhouette Studio V3 (.studio3) 形式。
 
 - エンベロープ（五角形）：envelope_pentagon.studio3
 - エンベロープ（六角形）：envelope_hexagon.studio3
 - スパイクタンパク質：spike.studio3
 
-関連する記事は [こちら]()。
+関連する記事は [こちら](https://note.com/yamnor/n/n36c52569be25)。
